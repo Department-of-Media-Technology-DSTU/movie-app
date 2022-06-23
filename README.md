@@ -17,4 +17,4 @@
 ##### Для просмотра функционала обязательно посетите сайт
 <p align="center">
   <a href="https://department-of-media-technology-dstu.github.io/movie-app/">
-    <img src="https://image.thum.io/get/maxAge/18/width/1000/https://department-of-media-technology-dstu.github.io/movie-app/">
+    <img src="https://github.com/Department-of-Media-Technology-DSTU/movie-app/blob/main/screenshot.png?raw=true">
